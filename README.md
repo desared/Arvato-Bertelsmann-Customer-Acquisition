@@ -2,7 +2,7 @@
 
 ## Research Question
 
-In this report, supervised and unsupervised learning techniques will be proposed to analyze demographics data of customers of a mail-order company in Germany against demographics information of the existing clients. Therefore, the research question that arises is:
+In this report, supervised and unsupervised learning techniques are used to analyze demographics data of customers of a mail-order company in Germany against demographics information of the existing clients. Therefore, the research question that arises is:
 
 What are the potential customers and how can the company acquire them efficiently?
 
