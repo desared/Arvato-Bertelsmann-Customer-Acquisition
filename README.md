@@ -65,7 +65,7 @@ Using the elbow method, it is concluded that the most optimal number of clusters
 
 Using the learning curves to evaluate different supervised models, Gradient Boosting results to be the most efficient model. The training score of Gradient Boosting decreases to 0.935, while the validation score increases up to 0.78. After tuning the model, the model achieved a ROC-AUC score of 0.79068 on the test data. 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="licensing"></a>
 
 I would like to thank Arvato Financial Solutions and Udacity for providing this challenging task to work with real-world data.
 
