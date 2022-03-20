@@ -1,5 +1,5 @@
 # Arvato-Bertelsmann-Customer-Acquisition
-Capstone Project for [Machine Learning Engineer Nanodegree](https://classroom.udacity.com/nanodegrees/nd009t/), unit 4.
+Capstone Project for [Machine Learning Engineer Nanodegree](https://classroom.udacity.com/nanodegrees/nd009t/).
 
 
 ### Table of Contents
